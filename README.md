@@ -2,15 +2,14 @@
 
 QR Code App by. Antonie Dev
 
-## Getting Started
+Screenshoot: 
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/29690514/120346558-0c777780-c32e-11eb-8642-c72b979797d9.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/29690514/120346574-126d5880-c32e-11eb-8c67-2fed4677106c.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/29690514/120346591-17caa300-c32e-11eb-937c-9c35081a7c77.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/29690514/120346629-21540b00-c32e-11eb-89fe-15b3cffdcdc7.png)
+
+![image](https://user-images.githubusercontent.com/29690514/120346650-26b15580-c32e-11eb-8071-4524b5a3e177.png)
